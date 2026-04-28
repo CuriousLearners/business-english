@@ -1,6 +1,6 @@
 +++
 title = "课程类型"
-image = "/images/notebook-laptop.jpg"
+image = "notebook-laptop.jpg"
 weight = 1
 +++
 
@@ -43,7 +43,7 @@ weight = 1
 我们使用 Business Result 系列教材，引导您从当前水平提升到高级商务沟通能力。
 
 <div style="text-align: center;">
-  <img src="/images/books.png" alt="Textbook Preview" style="max-width: 500px; height: auto;">
+  <img src="books.png" alt="Textbook Preview" style="max-width: 500px; height: auto;">
 </div>
 
 ---
