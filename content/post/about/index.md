@@ -4,6 +4,7 @@ title = "About me"
 weight = 4
 image = "collage.png"
 slug = "about"
+featured_image = "collage.png"
 
 [menu.main]
 weight = -70
