@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Business English with Marta</title>
-        <link>http://localhost:1313/</link>
+        <link>https://curiouslearners.github.io/business-english/</link>
         <description>Recent content on Business English with Marta</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate><atom:link href="https://curiouslearners.github.io/business-english/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Lessons</title>
-        <link>http://localhost:1313/post/lessons/</link>
+        <link>https://curiouslearners.github.io/business-english/post/lessons/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/post/lessons/</guid>
-        <description>&lt;img src="http://localhost:1313/images/notebook-laptop.jpg" alt="Featured image of post Lessons" /&gt;&lt;p&gt;Business English Lessons&lt;/p&gt;
+        <guid>https://curiouslearners.github.io/business-english/post/lessons/</guid>
+        <description>&lt;img src="https://curiouslearners.github.io/images/notebook-laptop.jpg" alt="Featured image of post Lessons" /&gt;&lt;p&gt;Business English Lessons&lt;/p&gt;
 &lt;p&gt;I offer 1-on-1 Business English lessons designed to help professionals communicate more clearly and confidently at work.&lt;/p&gt;
 &lt;p&gt;My students are usually working in fields such as IT, healthcare, engineering, and other industries where English is needed for meetings, emails, and daily communication.&lt;/p&gt;
 &lt;hr&gt;
@@ -36,20 +36,20 @@
 &lt;h2 id=&#34;your-learning-materials&#34;&gt;Your learning materials
 &lt;/h2&gt;&lt;p&gt;We use the Business Result textbook series to guide your progress from your current level to advanced business communication.&lt;/p&gt;
 &lt;div style=&#34;text-align: center;&#34;&gt;
-  &lt;img src=&#34;http://localhost:1313/images/books.png&#34; alt=&#34;Textbook Preview&#34; style=&#34;max-width: 500px; height: auto;&#34;&gt;
+  &lt;img src=&#34;https://curiouslearners.github.io/business-english/images/books.png&#34; alt=&#34;Textbook Preview&#34; style=&#34;max-width: 500px; height: auto;&#34;&gt;
 &lt;/div&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;next-steps&#34;&gt;Next steps
-&lt;/h2&gt;&lt;p&gt;You can &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/post/contact&#34; &gt;contact me&lt;/a&gt; or visit &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/post/pricing/&#34; &gt;the pricing page&lt;/a&gt; for more details.&lt;/p&gt;
+&lt;/h2&gt;&lt;p&gt;You can &lt;a class=&#34;link&#34; href=&#34;https://curiouslearners.github.io/business-english/post/contact&#34; &gt;contact me&lt;/a&gt; or visit &lt;a class=&#34;link&#34; href=&#34;https://curiouslearners.github.io/business-english/post/pricing/&#34; &gt;the pricing page&lt;/a&gt; for more details.&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>Payment Information</title>
-        <link>http://localhost:1313/post/pricing/</link>
+        <link>https://curiouslearners.github.io/business-english/post/pricing/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/post/pricing/</guid>
-        <description>&lt;img src="http://localhost:1313/post/pricing/payment.png" alt="Featured image of post Payment Information" /&gt;&lt;h3 id=&#34;-business-class-pricing-45-minutes-per-class&#34;&gt;💳 Business Class Pricing (45 minutes per class)
+        <guid>https://curiouslearners.github.io/business-english/post/pricing/</guid>
+        <description>&lt;img src="https://curiouslearners.github.io/business-english/post/pricing/payment.png" alt="Featured image of post Payment Information" /&gt;&lt;h3 id=&#34;-business-class-pricing-45-minutes-per-class&#34;&gt;💳 Business Class Pricing (45 minutes per class)
 &lt;/h3&gt;&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -131,17 +131,17 @@
 }
 &lt;/style&gt;
 &lt;div class=&#34;pay-btn-container&#34;&gt;
-  &lt;a href=&#34;http://localhost:1313/post/contact/&#34; class=&#34;pay-btn&#34;&gt;Contact Info&lt;/a&gt;
+  &lt;a href=&#34;https://curiouslearners.github.io/business-english/post/contact/&#34; class=&#34;pay-btn&#34;&gt;Contact Info&lt;/a&gt;
 &lt;/div&gt;
 </description>
         </item>
         <item>
         <title>About me</title>
-        <link>http://localhost:1313/post/about/</link>
+        <link>https://curiouslearners.github.io/business-english/post/about/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/post/about/</guid>
-        <description>&lt;img src="http://localhost:1313/images/collage.png" alt="Featured image of post About me" /&gt;&lt;blockquote&gt;
+        <guid>https://curiouslearners.github.io/business-english/post/about/</guid>
+        <description>&lt;img src="https://curiouslearners.github.io/images/collage.png" alt="Featured image of post About me" /&gt;&lt;blockquote&gt;
 &lt;p&gt;Hello! I’m &lt;strong&gt;Marta&lt;/strong&gt;, an experienced ESL instructor dedicated to helping adult learners achieve confidence and fluency in English.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;h2 id=&#34;credentials--experience&#34;&gt;Credentials &amp;amp; Experience
 &lt;/h2&gt;&lt;ul&gt;
@@ -185,12 +185,12 @@
 &lt;p&gt;“It was a really instructive class, Marta is a very well-prepared professional that helped me a lot with my English. I expect to book a new class with her and continue to improve my conversational skills. I enjoyed the meeting, thanks a lot Marta!”&lt;br&gt;
 — Former student, Gustavo&lt;/p&gt;&lt;/blockquote&gt;
 &lt;div class=&#34;slideshow-container&#34;&gt;
-  &lt;img class=&#34;slide&#34; src=&#34;http://localhost:1313/images/slideshow/reviews1.png&#34; alt=&#34;Reviews 1&#34;&gt;
-  &lt;img class=&#34;slide&#34; src=&#34;http://localhost:1313/images/slideshow/reviews2.png&#34; alt=&#34;Reviews 2&#34;&gt;
-  &lt;img class=&#34;slide&#34; src=&#34;http://localhost:1313/images/slideshow/reviews3.png&#34; alt=&#34;Reviews 3&#34;&gt;
-  &lt;img class=&#34;slide&#34; src=&#34;http://localhost:1313/images/slideshow/reviews4.png&#34; alt=&#34;Reviews 4&#34;&gt;
-  &lt;img class=&#34;slide&#34; src=&#34;http://localhost:1313/images/slideshow/reviews5.png&#34; alt=&#34;Reviews 5&#34;&gt;
-  &lt;img class=&#34;slide&#34; src=&#34;http://localhost:1313/images/slideshow/reviews6.png&#34; alt=&#34;Reviews 6&#34;&gt;
+  &lt;img class=&#34;slide&#34; src=&#34;https://curiouslearners.github.io/business-english/images/slideshow/reviews1.png&#34; alt=&#34;Reviews 1&#34;&gt;
+  &lt;img class=&#34;slide&#34; src=&#34;https://curiouslearners.github.io/business-english/images/slideshow/reviews2.png&#34; alt=&#34;Reviews 2&#34;&gt;
+  &lt;img class=&#34;slide&#34; src=&#34;https://curiouslearners.github.io/business-english/images/slideshow/reviews3.png&#34; alt=&#34;Reviews 3&#34;&gt;
+  &lt;img class=&#34;slide&#34; src=&#34;https://curiouslearners.github.io/business-english/images/slideshow/reviews4.png&#34; alt=&#34;Reviews 4&#34;&gt;
+  &lt;img class=&#34;slide&#34; src=&#34;https://curiouslearners.github.io/business-english/images/slideshow/reviews5.png&#34; alt=&#34;Reviews 5&#34;&gt;
+  &lt;img class=&#34;slide&#34; src=&#34;https://curiouslearners.github.io/business-english/images/slideshow/reviews6.png&#34; alt=&#34;Reviews 6&#34;&gt;
 &lt;/div&gt;
 &lt;script&gt;
   let slides = document.querySelectorAll(&#39;.slide&#39;);
@@ -222,15 +222,15 @@
 &lt;/style&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;ready-to-get-started&#34;&gt;Ready to Get Started?
-&lt;/h2&gt;&lt;p&gt;You can &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/post/contact&#34; &gt;contact me&lt;/a&gt; or visit &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/post/pricing/&#34; &gt;the pricing page&lt;/a&gt; for more details.&lt;/p&gt;
+&lt;/h2&gt;&lt;p&gt;You can &lt;a class=&#34;link&#34; href=&#34;https://curiouslearners.github.io/business-english/post/contact&#34; &gt;contact me&lt;/a&gt; or visit &lt;a class=&#34;link&#34; href=&#34;https://curiouslearners.github.io/business-english/post/pricing/&#34; &gt;the pricing page&lt;/a&gt; for more details.&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>Contact Me</title>
-        <link>http://localhost:1313/post/contact/</link>
+        <link>https://curiouslearners.github.io/business-english/post/contact/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/post/contact/</guid>
+        <guid>https://curiouslearners.github.io/business-english/post/contact/</guid>
         <description>&lt;p&gt;I&amp;rsquo;d love to hear from you!&lt;/p&gt;
 &lt;p&gt;When you contact me, please include a few details when you reach out:&lt;/p&gt;
 &lt;ul&gt;
@@ -245,18 +245,18 @@
         </item>
         <item>
         <title>Resources</title>
-        <link>http://localhost:1313/page/resources/</link>
+        <link>https://curiouslearners.github.io/business-english/page/resources/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/page/resources/</guid>
+        <guid>https://curiouslearners.github.io/business-english/page/resources/</guid>
         <description></description>
         </item>
         <item>
         <title>Search</title>
-        <link>http://localhost:1313/page/search/</link>
+        <link>https://curiouslearners.github.io/business-english/page/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/page/search/</guid>
+        <guid>https://curiouslearners.github.io/business-english/page/search/</guid>
         <description></description>
         </item>
         

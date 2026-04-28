@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = "https://curiouslearners.github.io/business-english/"
 languageCode = "en-us"
 title = "Business English with Marta"
 theme = "hugo-theme-stack"
