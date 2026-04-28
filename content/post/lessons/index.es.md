@@ -1,6 +1,7 @@
 +++
 title = "Clases de Inglés de Negocios"
 image = "notebook-laptop.jpg"
+featured_image = "notebook-laptop.jpg"
 weight = 1
 +++
 

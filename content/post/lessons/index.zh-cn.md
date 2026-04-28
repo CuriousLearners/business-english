@@ -1,6 +1,7 @@
 +++
 title = "课程类型"
 image = "notebook-laptop.jpg"
+featured_image = "notebook-laptop.jpg"
 weight = 1
 +++
 

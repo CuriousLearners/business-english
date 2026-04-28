@@ -1,6 +1,7 @@
 +++
 title = "Типы занятий"
 image = "notebook-laptop.jpg"
+featured_image = "notebook-laptop.jpg"
 weight = 1
 +++
 
