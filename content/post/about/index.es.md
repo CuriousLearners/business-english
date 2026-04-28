@@ -2,7 +2,7 @@
 draft = false
 title = "Sobre mí"
 weight = 4
-image = "/images/collage.png"
+image = "collage.png"
 slug = "about"
 
 [menu.main]
