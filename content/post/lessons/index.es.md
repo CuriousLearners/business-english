@@ -1,7 +1,7 @@
 +++
 title = "Clases de Inglés de Negocios"
-image = "notebook-laptop.jpg"
-featured_image = "notebook-laptop.jpg"
+image = "/business-english/images/notebook-laptop.jpg"
+featured_image = "/business-english/images/notebook-laptop.jpg"
 weight = 1
 +++
 
@@ -42,7 +42,7 @@ Después de cada clase, se actualizará su hoja personal con correcciones útile
 Utilizamos la serie *Business Result* para guiar su progreso desde su nivel actual hasta una comunicación avanzada en inglés de negocios.
 
 <div style="text-align: center;">
-  <img src="books.png" alt="Textbook Preview" style="max-width: 500px; height: auto;">
+  <img src="/business-english/images/books.png" alt="Textbook Preview" style="max-width: 500px; height: auto;">
 </div>
 
 ---

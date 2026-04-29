@@ -2,7 +2,7 @@
 draft = false
 title = "Обо мне"
 weight = 4
-image = "collage.png"
+image = "/business-english/images/collage.png"
 slug = "about"
 
 [menu.main]
@@ -61,12 +61,12 @@ icon = "user"
 > — Бывший студент, Gustavo
 
 <div class="slideshow-container">
-  <img class="slide" src="slideshow/reviews1.png" alt="Reviews 1">
-  <img class="slide" src="slideshow/reviews2.png" alt="Reviews 2">
-  <img class="slide" src="slideshow/reviews3.png" alt="Reviews 3">
-  <img class="slide" src="slideshow/reviews4.png" alt="Reviews 4">
-  <img class="slide" src="slideshow/reviews5.png" alt="Reviews 5">
-  <img class="slide" src="slideshow/reviews6.png" alt="Reviews 6">
+  <img class="slide" src="/business-english/images/slideshow/reviews1.png" alt="Reviews 1">
+  <img class="slide" src="/business-english/images/slideshow/reviews2.png" alt="Reviews 2">
+  <img class="slide" src="/business-english/images/slideshow/reviews3.png" alt="Reviews 3">
+  <img class="slide" src="/business-english/images/slideshow/reviews4.png" alt="Reviews 4">
+  <img class="slide" src="/business-english/images/slideshow/reviews5.png" alt="Reviews 5">
+  <img class="slide" src="/business-english/images/slideshow/reviews6.png" alt="Reviews 6">
 </div>
 
 <script>
