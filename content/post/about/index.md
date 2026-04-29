@@ -103,4 +103,4 @@ This program is ideal for adult learners, especially **Ukrainian**, **Russian**,
 
 ## Ready to Get Started?
 
-You can [contact me](/post/contact) or visit [the pricing page](/post/pricing/) for more details.
+You can [contact me](/business-english/post/contact) or visit [the pricing page](/business-english/post/pricing/) for more details.

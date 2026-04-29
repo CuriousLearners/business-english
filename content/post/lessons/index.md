@@ -52,4 +52,4 @@ We use the Business Result textbook series to guide your progress from your curr
 
 ## Next steps
 
-You can [contact me](/post/contact) or visit [the pricing page](/post/pricing/) for more details.
+You can [contact me](/business-english/post/contact) or visit [the pricing page](/business-english/post/pricing/) for more details.
