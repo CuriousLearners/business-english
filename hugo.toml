@@ -4,7 +4,7 @@ title = "Business English with Marta"
 theme = "hugo-theme-stack"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
-avatar = "/img/avatar.png"
+avatar = "/img/avatar_hu_f509edb42ecc0ebd.png"
 
 [params]
   favicon = "images/favicon.png"
