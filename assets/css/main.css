@@ -41,3 +41,9 @@
   border-radius: 6px;
   border: 1px solid #2CA6A4;
 }
+
+.post-content img {
+  max-width: 700px;
+  width: 100%;
+  height: auto;
+}
