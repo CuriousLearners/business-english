@@ -1,6 +1,6 @@
 +++
 title = "Lessons"
-image = "/business-english/images/notebook-laptop.jpg"
+image = "/images/notebook-laptop.jpg"
 featured_image = "/images/notebook-laptop.jpg"
 weight = 1
 +++
@@ -45,7 +45,7 @@ We use the Business Result textbook series to guide your progress from your curr
 
 
 <div style="text-align: center;">
-  <img src="/business-english/images/books.png" alt="Textbook Preview" style="max-width: 500px; height: auto;">
+  <img src="/images/books.png" alt="Textbook Preview" style="max-width: 500px; height: auto;">
 </div>
 
 ---

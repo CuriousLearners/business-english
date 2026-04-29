@@ -2,9 +2,9 @@
 draft = false
 title = "About me"
 weight = 4
-image = "/business-english/images/collage.png"
+image = "/images/collage.png"
 slug = "about"
-featured_image = "/business-english/images/collage.png"
+featured_image = "/images/collage.png"
 
 [menu.main]
 weight = -70
@@ -61,12 +61,12 @@ This program is ideal for adult learners, especially **Ukrainian**, **Russian**,
 > — Former student, Gustavo
 
 <div class="slideshow-container">
-  <img class="slide" src="/business-english/images/slideshow/reviews1.png" alt="Reviews 1">
-  <img class="slide" src="/business-english/images/slideshow/reviews2.png" alt="Reviews 2">
-  <img class="slide" src="/business-english/images/slideshow/reviews3.png" alt="Reviews 3">
-  <img class="slide" src="/business-english/images/slideshow/reviews4.png" alt="Reviews 4">
-  <img class="slide" src="/business-english/images/slideshow/reviews5.png" alt="Reviews 5">
-  <img class="slide" src="/business-english/images/slideshow/reviews6.png" alt="Reviews 6">
+  <img class="slide" src="/images/slideshow/reviews1.png" alt="Reviews 1">
+  <img class="slide" src="/images/slideshow/reviews2.png" alt="Reviews 2">
+  <img class="slide" src="/images/slideshow/reviews3.png" alt="Reviews 3">
+  <img class="slide" src="/images/slideshow/reviews4.png" alt="Reviews 4">
+  <img class="slide" src="/images/slideshow/reviews5.png" alt="Reviews 5">
+  <img class="slide" src="/images/slideshow/reviews6.png" alt="Reviews 6">
 
 </div>
 

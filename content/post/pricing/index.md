@@ -1,6 +1,6 @@
 +++
 title = 'Payment Information'
-image = "/business-english/images/payment.png"
+image = "/images/payment.png"
 weight = 3
 +++
 

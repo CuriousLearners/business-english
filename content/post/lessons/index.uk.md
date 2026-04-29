@@ -1,7 +1,7 @@
 +++
 title = "Уроки"
-image = "/business-english/images/notebook-laptop.jpg"
-featured_image = "/business-english/images/notebook-laptop.jpg"
+image = "/images/notebook-laptop.jpg"
+featured_image = "/images/notebook-laptop.jpg"
 weight = 1
 +++
 
@@ -44,7 +44,7 @@ weight = 1
 Ми використовуємо серію підручників Business Result, щоб допомогти вам перейти від поточного рівня до просунутого рівня ділового спілкування.
 
 <div style="text-align: center;">
-  <img src="/business-english/images/books.png" alt="Textbook Preview" style="max-width: 500px; height: auto;">
+  <img src="/images/books.png" alt="Textbook Preview" style="max-width: 500px; height: auto;">
 </div>
 
 ---

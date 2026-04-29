@@ -1,7 +1,7 @@
 +++
 title = "Типы занятий"
-image = "/business-english/images/notebook-laptop.jpg"
-featured_image = "/business-english/images/notebook-laptop.jpg"
+image = "/images/notebook-laptop.jpg"
+featured_image = "/images/notebook-laptop.jpg"
 weight = 1
 +++
 
@@ -44,7 +44,7 @@ weight = 1
 Мы используем серию учебников Business Result, чтобы помочь вам перейти от текущего уровня к продвинутому деловому общению.
 
 <div style="text-align: center;">
-  <img src="/business-english/images/books.png" alt="Textbook Preview" style="max-width: 500px; height: auto;">
+  <img src="/images/books.png" alt="Textbook Preview" style="max-width: 500px; height: auto;">
 </div>
 
 ---
