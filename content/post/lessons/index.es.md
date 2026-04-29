@@ -49,4 +49,4 @@ Utilizamos la serie *Business Result* para guiar su progreso desde su nivel actu
 
 ## Próximos pasos
 
-Puede [ponerse en contacto conmigo](/business-english/post/contact) o visitar [la página de precios](/business-english/post/pricing/) para más detalles.
+Puede [ponerse en contacto conmigo](/post/contact) o visitar [la página de precios](/post/pricing/) para más detalles.

@@ -101,5 +101,5 @@ icon = "user"
 
 ## 下一步
 
-您可以[联系我](/business-english/post/contact)，或查看[价格页面](/business-english/post/pricing/)了解更多信息。
+您可以[联系我](/post/contact)，或查看[价格页面](/post/pricing/)了解更多信息。
 

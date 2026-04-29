@@ -79,7 +79,7 @@ You may cancel or reschedule a class for a full refund if you send an email **at
 </style>
 
 <div class="pay-btn-container">
-  <a href="/business-english/post/contact/" class="pay-btn">Contact Info</a>
+  <a href="/post/contact/" class="pay-btn">Contact Info</a>
 </div>
 
 
